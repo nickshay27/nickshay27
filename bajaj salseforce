@@ -1,0 +1,13 @@
+Request
+{
+}
+Response
+{
+"data": [“A”,”1”,”334”,”4”,”R”]
+Example B
+"is_success": true,
+"user_id": "nickshay27", 
+“email” : “nickshaychouhan27@gmail.com”, 
+“roll_number”:”0805EC191930”, 
+"numbers": [“1”,”334”,”4”],
+"alphabets": [“A”,”R”]
